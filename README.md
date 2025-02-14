@@ -6,6 +6,11 @@
 
 已适配sodium & minecraf java 1.16.5-1.21版本，其他版本还暂不适配
 
+下载方法:<br>
+你可以直接download zip解压出翻译文件<br>
+或者下载单个文件<br>
+又或者从release下载单个翻译文件<br>
+
 最后警告:<br>
 请不要将此翻译问题报告给sodium，<br>
 否则将等着的是你的issues被无情关闭！

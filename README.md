@@ -7,5 +7,5 @@
 已适配sodium & minecraf java 1.16.5-1.21版本，其他版本还暂不适配
 
 最后警告:<br>
-请不要将此翻译问题报告给，sodium<br>
+请不要将此翻译问题报告给sodium，<br>
 否则将等着的是你的issues被无情关闭！
